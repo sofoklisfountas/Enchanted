@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: fb965c7d5a2b88f4bafbec2750ed4035
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - myGuiSkin: {instanceID: 0}
+  - myGuiSkin2: {instanceID: 0}
+  - LOGO: {fileID: 2800000, guid: 304ffe331f055f14a9094e0542eae092, type: 3}
+  - optionsButton: {instanceID: 0}
+  - audioManager: {instanceID: 0}
+  - audioEffectsManager: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 69591c2b0fa23a946bf53c5059061daf
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - myStyle: {fileID: 11400000, guid: 52947ed7dbd8c01439ac1cdec93278a0, type: 2}
+  - bagIcon: {fileID: 2800000, guid: 095be49c344cff84b96397d80501c47f, type: 3}
+  - coinTex: {fileID: 2800000, guid: 2fa2a4a91315a3844a7f70e0065aa782, type: 3}
+  - texInv: {instanceID: 0}
+  - itemEf: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

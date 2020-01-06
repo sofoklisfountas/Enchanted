@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 4939884039691ec40b71e71265088c26
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - myCamera: {instanceID: 0}
+  - redFlagObj: {fileID: 118322, guid: a998bc88328c21443b233aefaecd5c8d, type: 2}
+  - blueFlagObj: {fileID: 151752, guid: c2638e2746c3210419011457300d22ff, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

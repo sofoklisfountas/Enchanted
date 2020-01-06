@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: fc57139d3a01d4a41863f299063cf572
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - controller: {instanceID: 0}
+  - idle: {instanceID: 0}
+  - run: {instanceID: 0}
+  - clickEffect: {fileID: 19800000, guid: 7efee4b919d57e44eb94bfc246428ba1, type: 2}
+  - spell2: {fileID: 11468504, guid: 647da26364d8cd94e88ed40057ecf569, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
