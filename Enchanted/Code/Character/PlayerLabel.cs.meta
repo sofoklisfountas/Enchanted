@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: e40729f23e70de7408174b960fffee4a
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - healthTex: {fileID: 2800000, guid: fe72a390ea4865c49bb409942de9d672, type: 3}
+  - myCamera: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 89a308677a27e0649a6a789fbf197b4d
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - minimapTex: {fileID: 2800000, guid: 36d9514497c735c4792c8411767917c3, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
